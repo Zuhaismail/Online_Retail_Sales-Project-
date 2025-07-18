@@ -104,7 +104,7 @@ The goal of this project is to analyze customer purchasing behavior, identify to
 
 * Sales distribution by country (Map and bar chart)
 
-> You can explore the Power BI file: `Online_Retail_PowerBi.pbix` or check snapshots in the `PowerBI_Dashboard_Images/` folder.
+> You can explore the Power BI file: Online_Retail_PowerBi.pbix or check snapshots in the PowerBI_Dashboard_Images/ folder.
 
 ---
 
