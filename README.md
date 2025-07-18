@@ -2,8 +2,6 @@
 
 Welcome to the **Online Retail Sales EDA** project! This repository showcases an end-to-end analysis of real-world e-commerce data, covering data cleaning, in-depth exploratory data analysis (EDA), and insightful data visualization through Power BI.
 
-![Dashboard Preview](PowerBI_Dashboard_Images/dashboard_preview.png)
-
 ## 📌 Project Objective
 
 The goal of this project is to analyze customer purchasing behavior, identify top-performing products, discover seasonal sales trends, and segment customers based on buying habits. The project is designed to build a solid foundation in data analysis using **Pandas**, **Matplotlib**, **Seaborn**, and **Power BI**.
